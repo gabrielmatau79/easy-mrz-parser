@@ -1,0 +1,32 @@
+{
+    "name": "mrz-parser",
+    "version": "1.0.0",
+    "description": "A JavaScript module for parsing Machine Readable Zone (MRZ) data from ID documents such as passports, ID cards. Supports TD1, TD2, and TD3 formats.",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gabrielmatau79/mrz-parser.git"
+    },
+    "keywords": [
+        "MRZ",
+        "parser",
+        "passport",
+        "ID",
+        "machine-readable-zone",
+        "TD1",
+        "TD2",
+        "TD3"
+    ],
+    "author": "Gabriel Mata",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gabrielmatau79/mrz-parser/issues"
+    },
+    "homepage": "https://github.com/gabrielmatau79/mrz-parser#readme",
+    "publishConfig": {
+    "access": "public"
+  }
+}
