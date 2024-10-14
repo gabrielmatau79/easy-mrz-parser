@@ -1,5 +1,5 @@
 
-# MRZParser
+# Easy MRZ Parser
 
 A JavaScript module for parsing Machine Readable Zone (MRZ) data from ID documents, such as passports, ID cards, and visas.
 Supports MRZ formats TD1, TD2, and TD3.
